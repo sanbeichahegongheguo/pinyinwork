@@ -24,7 +24,6 @@ qing hua da xue
 
 ![](./assets/image-20200412012929047.png)
 
-<img src="拼音输入法.assets/image-20200412012929047.png" alt="image-20200412012929047" style="zoom:50%;" />
 
 因此我们需要从这些汉字的组合中选取最优的一个。
 
